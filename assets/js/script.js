@@ -131,7 +131,7 @@ function createGroup(){
             <textarea
                 class="dataInput"
                 placeholder="Enter replicate values"
-                inputmode="decimal"
+            
             ></textarea>
 
             <span class="input-help">
