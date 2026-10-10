@@ -667,8 +667,7 @@ if(posthoc==="LSD"){
     `
 
     <p>
-    Aljl treatments contain the same number of replicates.
-    A single LSD value was calculated using the common replicate number.
+    All treatments have an equal number of replicates. A single LSD value was calculated using the common replicate number.
     </p>
 
 
@@ -685,8 +684,7 @@ if(posthoc==="LSD"){
     `
 
     <p>
-    Treatments contain different numbers of replicates.
-    Pairwise LSD comparisons were calculated separately for each treatment comparison using the replicate numbers of the compared treatments.
+    Treatments have different numbers of replicates. LSD values were calculated separately for each pairwise comparison using the replicate numbers of the two treatments being compared.
     </p>
 
     `
